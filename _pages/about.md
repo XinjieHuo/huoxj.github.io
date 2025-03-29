@@ -10,5 +10,5 @@ I am a second-year master's student from Sun Yat-sen University. My research int
 
 
 
-[Email](huoxj3@mail2.sysu.edu.cn) / [Github]() / [Wechat]() /
+[Email](huoxj3@mail2.sysu.edu.cn) / [Github](https://github.com/XinjieHuo/huoxj.github.io) / [Wechat]() /
 ————————————————
