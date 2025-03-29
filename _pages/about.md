@@ -8,7 +8,5 @@ redirect_from:
 ---
 I am a second-year master's student from Sun Yat-sen University. My research interests include computer vision, urban scene perception by fusing remote sensing and street-view imagery, and machine learning applications in geospatial analysis.
 
-
-
 [Email](huoxj3@mail2.sysu.edu.cn) / [Github](https://github.com/XinjieHuo/huoxj.github.io) / [Wechat](../image/Wechat.jpg) /
 ————————————————
